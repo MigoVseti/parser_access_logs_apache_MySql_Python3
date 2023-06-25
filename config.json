@@ -1,0 +1,18 @@
+{
+  "database": {
+    "DB_URL": "mysql+pymysql://root:Pa$$w0rd@localhost/python_kt",
+    "name": "python_kt",
+    "host": "localhost",
+    "user": "log_entry",
+    "password": "Pa$$w0rd",
+    "port": 3306
+  },
+  "logs": {
+    "directory": "logs",
+    "file_mask": "*.log"
+  },
+  "API": {
+    "API_HOST": "localhost",
+    "API_PORT": 5000
+  }
+}
